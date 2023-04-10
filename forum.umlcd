@@ -1,0 +1,1975 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_TalzgNZyEe2fMeFxo-oMKw">
+  <modelElement href="forum.uml#_TwSWsNZyEe2fMeFxo-oMKw"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_UbvHcNZyEe2fMeFxo-oMKw" source="_UbvuiNZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_UKwFINZyEe2fMeFxo-oMKw"/>
+    <stereotypes xmi:id="_UbvugNZyEe2fMeFxo-oMKw" name="Reference">
+      <modelElement href="forum.uml#_UK0WkNZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_UbvugdZyEe2fMeFxo-oMKw" text=""/>
+    <sourceRole xmi:id="_UbvugtZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="">
+      <modelElement href="forum.uml#_UKwFIdZyEe2fMeFxo-oMKw"/>
+      <visibility xmi:id="_Ubvug9ZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UbvuhNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_UbvuhdZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="ds" navigable="true">
+      <modelElement href="forum.uml#_UJtjUNZyEe2fMeFxo-oMKw"/>
+      <visibility xmi:id="_UbvuhtZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_Ubvuh9ZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_Ub-YANZyEe2fMeFxo-oMKw" sourceAnchor="207.0,0.0" targetAnchor="291.0,0.0" target="_UeVIcNZyEe2fMeFxo-oMKw" source="_Ub-_GNZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_UK0WkdZyEe2fMeFxo-oMKw"/>
+    <bendpoints xmi:id="_DvxD8tZzEe2fMeFxo-oMKw" sourceY="-627" targetX="873" targetY="-206"/>
+    <bendpoints xmi:id="_DvxrANZzEe2fMeFxo-oMKw" sourceX="-873" sourceY="-627" targetY="-206"/>
+    <stereotypes xmi:id="_Ub-_ENZyEe2fMeFxo-oMKw" name="Reference">
+      <modelElement href="forum.uml#_UK52INZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_Ub-_EdZyEe2fMeFxo-oMKw" text="">
+      <visualProperties xmi:id="_UrgBwNZyEe2fMeFxo-oMKw" position="18.999999999999773,-18.999999999999773"/>
+    </nameVisual>
+    <sourceRole xmi:id="_Ub-_EtZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="">
+      <modelElement href="forum.uml#_UK0WktZyEe2fMeFxo-oMKw"/>
+      <visualProperties xmi:id="_Urezo9ZyEe2fMeFxo-oMKw" position="2.0,-99.0"/>
+      <visibility xmi:id="_Ub-_E9ZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_Ub-_FNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_Ub-_FdZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="postService" navigable="true">
+      <modelElement href="forum.uml#_UJuxcNZyEe2fMeFxo-oMKw"/>
+      <visualProperties xmi:id="_UrgBwdZyEe2fMeFxo-oMKw" position="-77.0,-77.99999999999989"/>
+      <visibility xmi:id="_Ub-_FtZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_Ub-_F9ZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_UcEeoNZyEe2fMeFxo-oMKw" source="_UcIJCdZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_ULxY0NZyEe2fMeFxo-oMKw"/>
+    <stereotypes xmi:id="_UcGT0tZyEe2fMeFxo-oMKw" name="Reference">
+      <modelElement href="forum.uml#_UL0cINZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_UcFswNZyEe2fMeFxo-oMKw" text=""/>
+    <sourceRole xmi:id="_UcGT0NZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="">
+      <modelElement href="forum.uml#_ULxY0dZyEe2fMeFxo-oMKw"/>
+      <visibility xmi:id="_UcG64dZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UcG64NZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_UcGT0dZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="encoder" navigable="true">
+      <modelElement href="forum.uml#_UKBFUdZyEe2fMeFxo-oMKw"/>
+      <visibility xmi:id="_UcG649ZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_UcG64tZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_UcHh8NZyEe2fMeFxo-oMKw" sourceAnchor="329.0,135.0" targetAnchor="0.0,22.0" target="_UeQ3ANZyEe2fMeFxo-oMKw" source="_UcIJCdZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_ULnn0NZyEe2fMeFxo-oMKw"/>
+    <bendpoints xmi:id="_DvxrBNZzEe2fMeFxo-oMKw" sourceY="20" targetX="-424"/>
+    <stereotypes xmi:id="_UcHh8dZyEe2fMeFxo-oMKw" name="Reference">
+      <modelElement href="forum.uml#_ULsgUNZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_UcHh8tZyEe2fMeFxo-oMKw" text="">
+      <visualProperties xmi:id="_Urgo0dZyEe2fMeFxo-oMKw" position="193.75,2.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_UcHh89ZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="">
+      <modelElement href="forum.uml#_ULnn0dZyEe2fMeFxo-oMKw"/>
+      <visualProperties xmi:id="_Urgo0NZyEe2fMeFxo-oMKw" position="331.78125,-27.0"/>
+      <visibility xmi:id="_UcHh9NZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UcHh9dZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_UcHh9tZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="userRep" navigable="true">
+      <modelElement href="forum.uml#_UKAeQNZyEe2fMeFxo-oMKw"/>
+      <visualProperties xmi:id="_Urgo0tZyEe2fMeFxo-oMKw" position="-103.5625,2.0"/>
+      <visibility xmi:id="_UcHh99ZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_UcHh-NZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_UcIJANZyEe2fMeFxo-oMKw" sourceAnchor="659.0,36.0" targetAnchor="0.0,35.0" target="_Ud31cNZyEe2fMeFxo-oMKw" source="_UcIJCdZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_ULtHYNZyEe2fMeFxo-oMKw"/>
+    <stereotypes xmi:id="_UcIJAdZyEe2fMeFxo-oMKw" name="Reference">
+      <modelElement href="forum.uml#_ULwxwNZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_UcIJAtZyEe2fMeFxo-oMKw" text="">
+      <visualProperties xmi:id="_UrhP4NZyEe2fMeFxo-oMKw" position="-16.0,-19.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_UcIJA9ZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="">
+      <modelElement href="forum.uml#_ULtHYdZyEe2fMeFxo-oMKw"/>
+      <visualProperties xmi:id="_Urgo09ZyEe2fMeFxo-oMKw" position="38.0,-86.0"/>
+      <visibility xmi:id="_UcIJBNZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UcIJBdZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_UcIJBtZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="authRep" navigable="true">
+      <modelElement href="forum.uml#_UKBFUNZyEe2fMeFxo-oMKw"/>
+      <visualProperties xmi:id="_UrhP4dZyEe2fMeFxo-oMKw" position="-47.0,17.0"/>
+      <visibility xmi:id="_UcIJB9ZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_UcIJCNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_UcQE0NZyEe2fMeFxo-oMKw" sourceAnchor="220.0,0.0" targetAnchor="231.0,147.0" target="_UeVIcNZyEe2fMeFxo-oMKw" source="_UcU9UNZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_ULDnINZyEe2fMeFxo-oMKw"/>
+    <stereotypes xmi:id="_UcShEtZyEe2fMeFxo-oMKw" name="Reference">
+      <modelElement href="forum.uml#_ULHRgNZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_UcR6ANZyEe2fMeFxo-oMKw" text="">
+      <visualProperties xmi:id="_Urh28dZyEe2fMeFxo-oMKw" position="-84.0,-17.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_UcShENZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="">
+      <modelElement href="forum.uml#_ULDnIdZyEe2fMeFxo-oMKw"/>
+      <visualProperties xmi:id="_Urh28NZyEe2fMeFxo-oMKw" position="40.0,-41.0"/>
+      <visibility xmi:id="_UcTIIdZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UcTIINZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_UcShEdZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="pServ" navigable="true">
+      <modelElement href="forum.uml#_UJxNsNZyEe2fMeFxo-oMKw"/>
+      <visualProperties xmi:id="_Urh28tZyEe2fMeFxo-oMKw" position="-23.0,-5.0"/>
+      <visibility xmi:id="_UcTvMdZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_UcTvMNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_UcUWQNZyEe2fMeFxo-oMKw" sourceAnchor="0.0,73.0" targetAnchor="345.0,147.0" target="_UedrUNZyEe2fMeFxo-oMKw" source="_UcU9UNZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_ULHRgdZyEe2fMeFxo-oMKw"/>
+    <bendpoints xmi:id="_DvxrAdZzEe2fMeFxo-oMKw" sourceX="-75" targetY="108"/>
+    <stereotypes xmi:id="_UcUWQdZyEe2fMeFxo-oMKw" name="Reference">
+      <modelElement href="forum.uml#_ULLi8NZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_UcUWQtZyEe2fMeFxo-oMKw" text="">
+      <visualProperties xmi:id="_UrieAdZyEe2fMeFxo-oMKw" position="2.0,-31.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_UcUWQ9ZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="">
+      <modelElement href="forum.uml#_ULHRgtZyEe2fMeFxo-oMKw"/>
+      <visualProperties xmi:id="_UrieANZyEe2fMeFxo-oMKw" position="-26.0,2.0"/>
+      <visibility xmi:id="_UcUWRNZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UcUWRdZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_UcUWRtZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="subServ" navigable="true">
+      <modelElement href="forum.uml#_UJxNsdZyEe2fMeFxo-oMKw"/>
+      <visualProperties xmi:id="_UrjFENZyEe2fMeFxo-oMKw" position="1.0,22.0"/>
+      <visibility xmi:id="_UcUWR9ZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_UcUWSNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_Uci_wNZyEe2fMeFxo-oMKw" sourceAnchor="318.0,64.0" targetAnchor="461.0,73.0" target="_UeVIcNZyEe2fMeFxo-oMKw" source="_UcsJsNZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_UK52IdZyEe2fMeFxo-oMKw"/>
+    <bendpoints xmi:id="_DvxrAtZzEe2fMeFxo-oMKw" sourceX="639" targetX="75" targetY="307"/>
+    <bendpoints xmi:id="_DvxrA9ZzEe2fMeFxo-oMKw" sourceX="639" sourceY="-307" targetX="75"/>
+    <stereotypes xmi:id="_Ucq7k9ZyEe2fMeFxo-oMKw" name="Reference">
+      <modelElement href="forum.uml#_UK-HkNZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_Ucq7kNZyEe2fMeFxo-oMKw" text="">
+      <visualProperties xmi:id="_UrjsINZyEe2fMeFxo-oMKw" position="-83.0,136.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_Ucq7kdZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="">
+      <modelElement href="forum.uml#_UK52ItZyEe2fMeFxo-oMKw"/>
+      <visualProperties xmi:id="_UrjFEdZyEe2fMeFxo-oMKw" position="57.0,2.0"/>
+      <visibility xmi:id="_UcriodZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UcrioNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_Ucq7ktZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="service" navigable="true">
+      <modelElement href="forum.uml#_UJvYgNZyEe2fMeFxo-oMKw"/>
+      <visualProperties xmi:id="_UrjsIdZyEe2fMeFxo-oMKw" position="23.0,40.99999999999997"/>
+      <visibility xmi:id="_Ucrio9ZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_UcriotZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_Ucy3YNZyEe2fMeFxo-oMKw" sourceAnchor="263.0,139.0" targetAnchor="0.0,12.0" target="_Uc1ToNZyEe2fMeFxo-oMKw" source="_UdJcsNZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_ULUF0dZyEe2fMeFxo-oMKw"/>
+    <stereotypes xmi:id="_Uc0Fg9ZyEe2fMeFxo-oMKw" name="Reference">
+      <modelElement href="forum.uml#_ULY-UNZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_Uc0FgNZyEe2fMeFxo-oMKw" text="">
+      <visualProperties xmi:id="_UrlhUNZyEe2fMeFxo-oMKw" position="-3.0,2.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_Uc0FgdZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="">
+      <modelElement href="forum.uml#_ULUF0tZyEe2fMeFxo-oMKw"/>
+      <visualProperties xmi:id="_Urk6QNZyEe2fMeFxo-oMKw" position="14.0,-47.0"/>
+      <visibility xmi:id="_Uc0skdZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_Uc0skNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_Uc0FgtZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="authority" navigable="true">
+      <modelElement href="forum.uml#_UJ-CAdZyEe2fMeFxo-oMKw"/>
+      <visualProperties xmi:id="_UrlhUdZyEe2fMeFxo-oMKw" position="-106.0,-47.0"/>
+      <stereotypes xmi:id="_Uc0slNZyEe2fMeFxo-oMKw" name="LegacyStyledElement">
+        <modelElement href="forum.uml#_UJ-CAtZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_Uc0sldZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_UJ-CA9ZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_Uc0sk9ZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_Uc0sktZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_Uc6MINZyEe2fMeFxo-oMKw" sourceAnchor="0.0,103.0" targetAnchor="264.0,123.0" target="_Uc_rsNZyEe2fMeFxo-oMKw" source="_UdurgNZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_ULP0YdZyEe2fMeFxo-oMKw"/>
+    <stereotypes xmi:id="_Uc9PcNZyEe2fMeFxo-oMKw" name="Reference">
+      <modelElement href="forum.uml#_ULUF0NZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_Uc8oYNZyEe2fMeFxo-oMKw" text="">
+      <visualProperties xmi:id="_UrmIYdZyEe2fMeFxo-oMKw" position="-42.0,-19.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_Uc8oYdZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="">
+      <modelElement href="forum.uml#_ULP0YtZyEe2fMeFxo-oMKw"/>
+      <visualProperties xmi:id="_UrmIYNZyEe2fMeFxo-oMKw" position="-28.0,2.0"/>
+      <visibility xmi:id="_Uc92gdZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_Uc92gNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_Uc8oYtZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="post" navigable="true">
+      <modelElement href="forum.uml#_UJ6-ttZyEe2fMeFxo-oMKw"/>
+      <visualProperties xmi:id="_UrmvcNZyEe2fMeFxo-oMKw" position="24.0,2.0"/>
+      <stereotypes xmi:id="_Uc92hNZyEe2fMeFxo-oMKw" name="LegacyStyledElement">
+        <modelElement href="forum.uml#_UJ6-t9ZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_Uc92hdZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_UJ7lwNZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_Uc92g9ZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_Uc92gtZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_Uc6zMNZyEe2fMeFxo-oMKw" sourceAnchor="264.0,93.0" targetAnchor="0.0,73.0" target="_UdurgNZyEe2fMeFxo-oMKw" source="_Uc_rsNZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_ULMKANZyEe2fMeFxo-oMKw"/>
+    <stereotypes xmi:id="_Uc9PdNZyEe2fMeFxo-oMKw" name="Reference">
+      <modelElement href="forum.uml#_ULP0YNZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_Uc9PcdZyEe2fMeFxo-oMKw" text="">
+      <visualProperties xmi:id="_UrkTMNZyEe2fMeFxo-oMKw" position="6.0,2.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_Uc9PctZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="">
+      <modelElement href="forum.uml#_ULMKAdZyEe2fMeFxo-oMKw"/>
+      <visualProperties xmi:id="_UrjsItZyEe2fMeFxo-oMKw" position="12.0,-47.0"/>
+      <visibility xmi:id="_Uc92h9ZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_Uc92htZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_Uc9Pc9ZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="subs" navigable="true">
+      <modelElement href="forum.uml#_UJ3UUNZyEe2fMeFxo-oMKw"/>
+      <visualProperties xmi:id="_UrkTMdZyEe2fMeFxo-oMKw" position="-64.0,-47.0"/>
+      <visibility xmi:id="_Uc92idZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_Uc92iNZyEe2fMeFxo-oMKw" label="1..*" max="-1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_UeA_YNZyEe2fMeFxo-oMKw" sourceAnchor="261.0,0.0" targetAnchor="125.0,0.0" target="_UeECstZyEe2fMeFxo-oMKw" source="_UeVIcNZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_ULZlYNZyEe2fMeFxo-oMKw"/>
+    <bendpoints xmi:id="_DvxD8NZzEe2fMeFxo-oMKw" sourceY="-176" targetX="549" targetY="-45"/>
+    <bendpoints xmi:id="_DvxD8dZzEe2fMeFxo-oMKw" sourceX="-549" sourceY="-176" targetY="-45"/>
+    <stereotypes xmi:id="_UeC0k9ZyEe2fMeFxo-oMKw" name="Reference">
+      <modelElement href="forum.uml#_ULed4NZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_UeC0kNZyEe2fMeFxo-oMKw" text="">
+      <visualProperties xmi:id="_UrnWgNZyEe2fMeFxo-oMKw" position="-42.0,2.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_UeC0kdZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="">
+      <modelElement href="forum.uml#_ULZlYdZyEe2fMeFxo-oMKw"/>
+      <visualProperties xmi:id="_UrmvcdZyEe2fMeFxo-oMKw" position="-17.0,-135.0"/>
+      <visibility xmi:id="_UeDbodZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UeDboNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_UeC0ktZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="rep" navigable="true">
+      <modelElement href="forum.uml#_UJ-pEdZyEe2fMeFxo-oMKw"/>
+      <visualProperties xmi:id="_UrnWgdZyEe2fMeFxo-oMKw" position="-39.0,-50.0"/>
+      <visibility xmi:id="_UeECsdZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_UeECsNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_UeI7MNZyEe2fMeFxo-oMKw" sourceAnchor="17.0,0.0" targetAnchor="167.0,71.0" target="_UeNMpNZyEe2fMeFxo-oMKw" source="_UeVIcNZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_ULed4dZyEe2fMeFxo-oMKw"/>
+    <stereotypes xmi:id="_UeL-gdZyEe2fMeFxo-oMKw" name="Reference">
+      <modelElement href="forum.uml#_ULivUNZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_UeKwYNZyEe2fMeFxo-oMKw" text="">
+      <visualProperties xmi:id="_Urn9kdZyEe2fMeFxo-oMKw" position="40.0,10.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_UeLXcNZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="">
+      <modelElement href="forum.uml#_ULed4tZyEe2fMeFxo-oMKw"/>
+      <visualProperties xmi:id="_Urn9kNZyEe2fMeFxo-oMKw" position="-18.0,-49.0"/>
+      <visibility xmi:id="_UeMlk9ZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UeMlktZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_UeL-gNZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="spRep" navigable="true">
+      <modelElement href="forum.uml#_UJ_QINZyEe2fMeFxo-oMKw"/>
+      <visualProperties xmi:id="_UrokoNZyEe2fMeFxo-oMKw" position="6.0,8.0"/>
+      <visibility xmi:id="_UeMlldZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_UeMllNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_UeI7MdZyEe2fMeFxo-oMKw" sourceAnchor="357.0,0.0" targetAnchor="98.0,71.0" target="_UeNMpNZyEe2fMeFxo-oMKw" source="_UedrUNZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_ULivUdZyEe2fMeFxo-oMKw"/>
+    <stereotypes xmi:id="_UeMlkdZyEe2fMeFxo-oMKw" name="Reference">
+      <modelElement href="forum.uml#_ULnAwNZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_UeL-gtZyEe2fMeFxo-oMKw" text="">
+      <visualProperties xmi:id="_UrpLsNZyEe2fMeFxo-oMKw" position="2.0,-9.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_UeL-g9ZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="">
+      <modelElement href="forum.uml#_ULivUtZyEe2fMeFxo-oMKw"/>
+      <visualProperties xmi:id="_UrokodZyEe2fMeFxo-oMKw" position="-56.0,-46.0"/>
+      <visibility xmi:id="_UeNModZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UeNMoNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_UeMlkNZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="rep" navigable="true">
+      <modelElement href="forum.uml#_UJ_3MNZyEe2fMeFxo-oMKw"/>
+      <visualProperties xmi:id="_UrpLsdZyEe2fMeFxo-oMKw" position="-34.0,4.0"/>
+      <visibility xmi:id="_UeNMo9ZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_UeNMotZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_UejK4NZyEe2fMeFxo-oMKw" source="_Uejx8NZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_UK-HkdZyEe2fMeFxo-oMKw"/>
+    <stereotypes xmi:id="_UejK4dZyEe2fMeFxo-oMKw" name="Reference">
+      <modelElement href="forum.uml#_ULDAENZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_UejK4tZyEe2fMeFxo-oMKw" text=""/>
+    <sourceRole xmi:id="_UejK49ZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="">
+      <modelElement href="forum.uml#_UK-HktZyEe2fMeFxo-oMKw"/>
+      <visibility xmi:id="_UejK5NZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UejK5dZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_UejK5tZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="mockMvc" navigable="true">
+      <modelElement href="forum.uml#_UJwmoNZyEe2fMeFxo-oMKw"/>
+      <visibility xmi:id="_UejK59ZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_UejK6NZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_UemOMNZyEe2fMeFxo-oMKw" sourceAnchor="106.0,116.0" targetAnchor="446.0,0.0" target="_UeVIcNZyEe2fMeFxo-oMKw" source="_Uep4kNZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_UL8X8dZyEe2fMeFxo-oMKw"/>
+    <stereotypes xmi:id="_UencVNZyEe2fMeFxo-oMKw" name="Reference">
+      <modelElement href="forum.uml#_UMBQcNZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_UencUdZyEe2fMeFxo-oMKw" text="">
+      <visualProperties xmi:id="_UrpywdZyEe2fMeFxo-oMKw" position="-39.0,-8.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_UencUtZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="">
+      <modelElement href="forum.uml#_UL8X8tZyEe2fMeFxo-oMKw"/>
+      <visualProperties xmi:id="_UrpywNZyEe2fMeFxo-oMKw" position="22.0,4.0"/>
+      <visibility xmi:id="_UeoqddZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UeoqdNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_UencU9ZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="posts" navigable="true">
+      <modelElement href="forum.uml#_UKDhktZyEe2fMeFxo-oMKw"/>
+      <visualProperties xmi:id="_UrqZ0NZyEe2fMeFxo-oMKw" position="41.0,-9.0"/>
+      <visibility xmi:id="_Ueoqd9ZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_UeoqdtZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_UencUNZyEe2fMeFxo-oMKw" source="_Uep4kNZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_UL4GgdZyEe2fMeFxo-oMKw"/>
+    <stereotypes xmi:id="_Ueoqc9ZyEe2fMeFxo-oMKw" name="Reference">
+      <modelElement href="forum.uml#_UL8X8NZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_UeoqcNZyEe2fMeFxo-oMKw" text=""/>
+    <sourceRole xmi:id="_UeoqcdZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="">
+      <modelElement href="forum.uml#_UL4GgtZyEe2fMeFxo-oMKw"/>
+      <visibility xmi:id="_UepRgdZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UepRgNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_UeoqctZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="mockMvc" navigable="true">
+      <modelElement href="forum.uml#_UKC6gNZyEe2fMeFxo-oMKw"/>
+      <visibility xmi:id="_UepRg9ZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_UepRgtZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_UeuKANZyEe2fMeFxo-oMKw" sourceAnchor="195.0,0.0" targetAnchor="186.0,147.0" target="_UedrUNZyEe2fMeFxo-oMKw" source="_UewmQNZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_UMLogNZyEe2fMeFxo-oMKw"/>
+    <stereotypes xmi:id="_UeuxFNZyEe2fMeFxo-oMKw" name="Reference">
+      <modelElement href="forum.uml#_UMP58NZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_UeuxEdZyEe2fMeFxo-oMKw" text="">
+      <visualProperties xmi:id="_UrrA4NZyEe2fMeFxo-oMKw" position="41.0,-17.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_UeuxEtZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="">
+      <modelElement href="forum.uml#_UMLogdZyEe2fMeFxo-oMKw"/>
+      <visualProperties xmi:id="_UrqZ0dZyEe2fMeFxo-oMKw" position="2.0,-41.0"/>
+      <visibility xmi:id="_UevYJdZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UevYJNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_UeuxE9ZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="subServ" navigable="true">
+      <modelElement href="forum.uml#_UKF90tZyEe2fMeFxo-oMKw"/>
+      <visualProperties xmi:id="_UrrA4dZyEe2fMeFxo-oMKw" position="-58.0,-4.0"/>
+      <visibility xmi:id="_Uev_MdZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_Uev_MNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_UeuxENZyEe2fMeFxo-oMKw" source="_UewmQNZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_UMGwAdZyEe2fMeFxo-oMKw"/>
+    <stereotypes xmi:id="_UevYI9ZyEe2fMeFxo-oMKw" name="Reference">
+      <modelElement href="forum.uml#_UMLBcNZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_UevYINZyEe2fMeFxo-oMKw" text=""/>
+    <sourceRole xmi:id="_UevYIdZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="">
+      <modelElement href="forum.uml#_UMGwAtZyEe2fMeFxo-oMKw"/>
+      <visibility xmi:id="_Uev_NNZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_Uev_M9ZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_UevYItZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="mockMvc" navigable="true">
+      <modelElement href="forum.uml#_UKFWwdZyEe2fMeFxo-oMKw"/>
+      <visibility xmi:id="_Uev_NtZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_Uev_NdZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_Ue1ewNZyEe2fMeFxo-oMKw" source="_Ue2s4tZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_UL1DMNZyEe2fMeFxo-oMKw"/>
+    <stereotypes xmi:id="_Ue2F09ZyEe2fMeFxo-oMKw" name="Reference">
+      <modelElement href="forum.uml#_UL4GgNZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_Ue2F0NZyEe2fMeFxo-oMKw" text=""/>
+    <sourceRole xmi:id="_Ue2F0dZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="">
+      <modelElement href="forum.uml#_UL1DMdZyEe2fMeFxo-oMKw"/>
+      <visibility xmi:id="_Ue2F1dZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_Ue2F1NZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_Ue2F0tZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="mockMvc" navigable="true">
+      <modelElement href="forum.uml#_UKBsYNZyEe2fMeFxo-oMKw"/>
+      <visibility xmi:id="_Ue2s4NZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_Ue2F1tZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_Ue5wMNZyEe2fMeFxo-oMKw" source="_Ue6-UNZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_UMB3gNZyEe2fMeFxo-oMKw"/>
+    <stereotypes xmi:id="_Ue6XQ9ZyEe2fMeFxo-oMKw" name="Reference">
+      <modelElement href="forum.uml#_UMGwANZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_Ue6XQNZyEe2fMeFxo-oMKw" text=""/>
+    <sourceRole xmi:id="_Ue6XQdZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="">
+      <modelElement href="forum.uml#_UMB3gdZyEe2fMeFxo-oMKw"/>
+      <visibility xmi:id="_Ue6XRdZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_Ue6XRNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_Ue6XQtZyEe2fMeFxo-oMKw" aggregationKind="NONE" name="mockMvc" navigable="true">
+      <modelElement href="forum.uml#_UKEvsNZyEe2fMeFxo-oMKw"/>
+      <visibility xmi:id="_Ue6XR9ZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_Ue6XRtZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:InterfaceVisual" xmi:id="_UeECstZyEe2fMeFxo-oMKw" name="PostRepository" associationsIn="_UeA_YNZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_Ty6z8NZyEe2fMeFxo-oMKw"/>
+    <visualProperties xmi:id="_UeECs9ZyEe2fMeFxo-oMKw" position="-2363.0,-180.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_UeECtNZyEe2fMeFxo-oMKw" label="+"/>
+    <operations xmi:id="_UeECtdZyEe2fMeFxo-oMKw" name="findById">
+      <modelElement href="forum.uml#_Ty7bANZyEe2fMeFxo-oMKw"/>
+      <visibility xmi:id="_UeECttZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UeECt9ZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_UeECuNZyEe2fMeFxo-oMKw">
+        <modelElement href="forum.uml#_UH0s8dZyEe2fMeFxo-oMKw"/>
+        <type xmi:id="_UeECudZyEe2fMeFxo-oMKw" name="Post">
+          <modelElement href="forum.uml#_TyNpUNZyEe2fMeFxo-oMKw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_UeECutZyEe2fMeFxo-oMKw" name="id">
+        <modelElement href="forum.uml#_Ty7bAdZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UeECu9ZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UeECvNZyEe2fMeFxo-oMKw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_UeECvdZyEe2fMeFxo-oMKw" name="findByOrderByIdAsc">
+      <modelElement href="forum.uml#_Ty8CENZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_UeECvtZyEe2fMeFxo-oMKw" name="Generics">
+        <modelElement href="forum.uml#_TzDW0NZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UeECv9ZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UeECwNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_UeECwdZyEe2fMeFxo-oMKw">
+        <modelElement href="forum.uml#_UJb2gdZyEe2fMeFxo-oMKw"/>
+        <type xmi:id="_UeECwtZyEe2fMeFxo-oMKw" name="Iterable">
+          <modelElement href="forum.uml#_UJYMIdZyEe2fMeFxo-oMKw"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:InterfaceVisual" xmi:id="_UeNMpNZyEe2fMeFxo-oMKw" name="SubPostRepository" associationsIn="_UeI7MNZyEe2fMeFxo-oMKw _UeI7MdZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_TzEk8NZyEe2fMeFxo-oMKw"/>
+    <visualProperties xmi:id="_UeNMpdZyEe2fMeFxo-oMKw" position="-2100.0,-175.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_UeNMptZyEe2fMeFxo-oMKw" label="+"/>
+    <operations xmi:id="_UeNMp9ZyEe2fMeFxo-oMKw" name="findAllByPostIdOrderByIdAsc">
+      <modelElement href="forum.uml#_TzFzENZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_UeNMqNZyEe2fMeFxo-oMKw" name="Generics">
+        <modelElement href="forum.uml#_TzMgwNZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UeNMqdZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UeNMqtZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_UeNMq9ZyEe2fMeFxo-oMKw">
+        <modelElement href="forum.uml#_UJgvANZyEe2fMeFxo-oMKw"/>
+        <type xmi:id="_UeNMrNZyEe2fMeFxo-oMKw" name="Iterable">
+          <modelElement href="forum.uml#_UJYMIdZyEe2fMeFxo-oMKw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_UeNMrdZyEe2fMeFxo-oMKw" name="id">
+        <modelElement href="forum.uml#_TzFzEdZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UeNMrtZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UeNMr9ZyEe2fMeFxo-oMKw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_UedrUNZyEe2fMeFxo-oMKw" name="SubPostService" associationsIn="_UcUWQNZyEe2fMeFxo-oMKw _UeuKANZyEe2fMeFxo-oMKw" associationsOut="_UeI7MdZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_TzVDoNZyEe2fMeFxo-oMKw"/>
+    <visualProperties xmi:id="_UedrUdZyEe2fMeFxo-oMKw" position="-2359.0,-48.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_UedrUtZyEe2fMeFxo-oMKw" name="LegacyStyledElement">
+      <modelElement href="forum.uml#_TzVqsNZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <stereotypes xmi:id="_UedrU9ZyEe2fMeFxo-oMKw" name="Annotations">
+      <modelElement href="forum.uml#_TzYuANZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <visibility xmi:id="_UedrVNZyEe2fMeFxo-oMKw" label="+"/>
+    <attributes xmi:id="_UedrVdZyEe2fMeFxo-oMKw" name="rep">
+      <modelElement href="forum.uml#_UJ_3MNZyEe2fMeFxo-oMKw"/>
+      <visibility xmi:id="_UedrVtZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_UedrV9ZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <type xmi:id="_UedrWNZyEe2fMeFxo-oMKw" name="SubPostRepository">
+        <modelElement href="forum.uml#_TzEk8NZyEe2fMeFxo-oMKw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_UedrWdZyEe2fMeFxo-oMKw" name="get">
+      <modelElement href="forum.uml#_TzW40NZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_UedrWtZyEe2fMeFxo-oMKw" name="StyledElement">
+        <modelElement href="forum.uml#_TzW40tZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UedrW9ZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UedrXNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_UedrXdZyEe2fMeFxo-oMKw">
+        <modelElement href="forum.uml#_UIFysdZyEe2fMeFxo-oMKw"/>
+        <type xmi:id="_UedrXtZyEe2fMeFxo-oMKw" name="SubPost">
+          <modelElement href="forum.uml#_TyeIANZyEe2fMeFxo-oMKw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_UedrX9ZyEe2fMeFxo-oMKw" name="id">
+        <modelElement href="forum.uml#_TzW40dZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UedrYNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UedrYdZyEe2fMeFxo-oMKw" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_UedrYtZyEe2fMeFxo-oMKw" name="delete">
+      <modelElement href="forum.uml#_TzXf4NZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_UedrY9ZyEe2fMeFxo-oMKw" name="StyledElement">
+        <modelElement href="forum.uml#_TzXf4tZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UedrZNZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UedrZdZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_UedrZtZyEe2fMeFxo-oMKw" name="id">
+        <modelElement href="forum.uml#_TzXf4dZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UedrZ9ZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UedraNZyEe2fMeFxo-oMKw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_UedradZyEe2fMeFxo-oMKw" name="getAllByPostId">
+      <modelElement href="forum.uml#_TzXf49ZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_UedratZyEe2fMeFxo-oMKw" name="StyledElement">
+        <modelElement href="forum.uml#_TzYG8tZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_Uedra9ZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UedrbNZyEe2fMeFxo-oMKw" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_UedrbdZyEe2fMeFxo-oMKw">
+        <modelElement href="forum.uml#_TzYG8NZyEe2fMeFxo-oMKw"/>
+        <type xmi:id="_UedrbtZyEe2fMeFxo-oMKw" name="SubPost">
+          <modelElement href="forum.uml#_TyeIANZyEe2fMeFxo-oMKw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_Uedrb9ZyEe2fMeFxo-oMKw" name="id">
+        <modelElement href="forum.uml#_TzXf5NZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UedrcNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UedrcdZyEe2fMeFxo-oMKw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_UedrctZyEe2fMeFxo-oMKw" name="SubPostService">
+      <modelElement href="forum.uml#_UIEkkNZyEe2fMeFxo-oMKw"/>
+      <keywords xmi:id="_Uedrc9ZyEe2fMeFxo-oMKw" keyword="create"/>
+      <stereotypes xmi:id="_UedrdNZyEe2fMeFxo-oMKw" name="StyledElement">
+        <modelElement href="forum.uml#_UIFLoNZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UedrddZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UedrdtZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_Uedrd9ZyEe2fMeFxo-oMKw">
+        <modelElement href="forum.uml#_UIEklNZyEe2fMeFxo-oMKw"/>
+        <type xmi:id="_UedreNZyEe2fMeFxo-oMKw" name="SubPostService">
+          <modelElement href="forum.uml#_TzVDoNZyEe2fMeFxo-oMKw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_UedredZyEe2fMeFxo-oMKw" name="rep">
+        <modelElement href="forum.uml#_UIEkkdZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UedretZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_Uedre9ZyEe2fMeFxo-oMKw" name="SubPostRepository">
+          <modelElement href="forum.uml#_TzEk8NZyEe2fMeFxo-oMKw"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_UedrfNZyEe2fMeFxo-oMKw" name="save">
+      <modelElement href="forum.uml#_UIFLodZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_UedrfdZyEe2fMeFxo-oMKw" name="StyledElement">
+        <modelElement href="forum.uml#_UIFysNZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UedrftZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_Uedrf9ZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_UedrgNZyEe2fMeFxo-oMKw">
+        <modelElement href="forum.uml#_UIFLo9ZyEe2fMeFxo-oMKw"/>
+        <type xmi:id="_UedrgdZyEe2fMeFxo-oMKw" name="SubPost">
+          <modelElement href="forum.uml#_TyeIANZyEe2fMeFxo-oMKw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_UedrgtZyEe2fMeFxo-oMKw" name="sub">
+        <modelElement href="forum.uml#_UIFLotZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_Uedrg9ZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UedrhNZyEe2fMeFxo-oMKw" name="SubPost">
+          <modelElement href="forum.uml#_TyeIANZyEe2fMeFxo-oMKw"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_UeVIcNZyEe2fMeFxo-oMKw" name="PostService" associationsIn="_Ub-YANZyEe2fMeFxo-oMKw _Uci_wNZyEe2fMeFxo-oMKw _UcQE0NZyEe2fMeFxo-oMKw _UemOMNZyEe2fMeFxo-oMKw" associationsOut="_UeA_YNZyEe2fMeFxo-oMKw _UeI7MNZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_TzPkENZyEe2fMeFxo-oMKw"/>
+    <visualProperties xmi:id="_UeVIcdZyEe2fMeFxo-oMKw" position="-1950.0,-49.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_UeVIctZyEe2fMeFxo-oMKw" name="LegacyStyledElement">
+      <modelElement href="forum.uml#_TzQLINZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <stereotypes xmi:id="_UeVIc9ZyEe2fMeFxo-oMKw" name="Annotations">
+      <modelElement href="forum.uml#_TzSnYdZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <visibility xmi:id="_UeVIdNZyEe2fMeFxo-oMKw" label="+"/>
+    <attributes xmi:id="_UeVIddZyEe2fMeFxo-oMKw" name="rep">
+      <modelElement href="forum.uml#_UJ-pEdZyEe2fMeFxo-oMKw"/>
+      <visibility xmi:id="_UeVIdtZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_UeVId9ZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <type xmi:id="_UeVIeNZyEe2fMeFxo-oMKw" name="PostRepository">
+        <modelElement href="forum.uml#_Ty6z8NZyEe2fMeFxo-oMKw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_UeVIedZyEe2fMeFxo-oMKw" name="spRep">
+      <modelElement href="forum.uml#_UJ_QINZyEe2fMeFxo-oMKw"/>
+      <visibility xmi:id="_UeVIetZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_UeVIe9ZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <type xmi:id="_UeVIfNZyEe2fMeFxo-oMKw" name="SubPostRepository">
+        <modelElement href="forum.uml#_TzEk8NZyEe2fMeFxo-oMKw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_UeVIfdZyEe2fMeFxo-oMKw" name="getAll">
+      <modelElement href="forum.uml#_TzQyMNZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_UeVIftZyEe2fMeFxo-oMKw" name="StyledElement">
+        <modelElement href="forum.uml#_TzRZQNZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UeVIf9ZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UeVIgNZyEe2fMeFxo-oMKw" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_UeVIgdZyEe2fMeFxo-oMKw">
+        <modelElement href="forum.uml#_TzQyMdZyEe2fMeFxo-oMKw"/>
+        <type xmi:id="_UeVIgtZyEe2fMeFxo-oMKw" name="Post">
+          <modelElement href="forum.uml#_TyNpUNZyEe2fMeFxo-oMKw"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_UeVIg9ZyEe2fMeFxo-oMKw" name="get">
+      <modelElement href="forum.uml#_TzRZQdZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_UeVIhNZyEe2fMeFxo-oMKw" name="StyledElement">
+        <modelElement href="forum.uml#_TzSAUdZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UeVIhdZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UeVIhtZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_UeVIh9ZyEe2fMeFxo-oMKw">
+        <modelElement href="forum.uml#_UH_FAtZyEe2fMeFxo-oMKw"/>
+        <type xmi:id="_UeVIiNZyEe2fMeFxo-oMKw" name="Post">
+          <modelElement href="forum.uml#_TyNpUNZyEe2fMeFxo-oMKw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_UeVIidZyEe2fMeFxo-oMKw" name="id">
+        <modelElement href="forum.uml#_TzSAUNZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UeVIitZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UeVIi9ZyEe2fMeFxo-oMKw" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_UeVIjNZyEe2fMeFxo-oMKw" name="delete">
+      <modelElement href="forum.uml#_TzSAUtZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_UeVIjdZyEe2fMeFxo-oMKw" name="StyledElement">
+        <modelElement href="forum.uml#_TzSnYNZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UeVIjtZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UeVIj9ZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_UeVIkNZyEe2fMeFxo-oMKw" name="id">
+        <modelElement href="forum.uml#_TzSAU9ZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UeVIkdZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UeVIktZyEe2fMeFxo-oMKw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_UeVIk9ZyEe2fMeFxo-oMKw" name="PostService">
+      <modelElement href="forum.uml#_UH924NZyEe2fMeFxo-oMKw"/>
+      <keywords xmi:id="_UeVIlNZyEe2fMeFxo-oMKw" keyword="create"/>
+      <stereotypes xmi:id="_UeVIldZyEe2fMeFxo-oMKw" name="StyledElement">
+        <modelElement href="forum.uml#_UH-d8tZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UeVIltZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UeVIl9ZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_UeVImNZyEe2fMeFxo-oMKw">
+        <modelElement href="forum.uml#_UH-d8dZyEe2fMeFxo-oMKw"/>
+        <type xmi:id="_UeVImdZyEe2fMeFxo-oMKw" name="PostService">
+          <modelElement href="forum.uml#_TzPkENZyEe2fMeFxo-oMKw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_UeVImtZyEe2fMeFxo-oMKw" name="rep">
+        <modelElement href="forum.uml#_UH924dZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UeVIm9ZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UeVInNZyEe2fMeFxo-oMKw" name="PostRepository">
+          <modelElement href="forum.uml#_Ty6z8NZyEe2fMeFxo-oMKw"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_UeVIndZyEe2fMeFxo-oMKw" name="spRep">
+        <modelElement href="forum.uml#_UH924tZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UeVIntZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UeVIn9ZyEe2fMeFxo-oMKw" name="SubPostRepository">
+          <modelElement href="forum.uml#_TzEk8NZyEe2fMeFxo-oMKw"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_UeVIoNZyEe2fMeFxo-oMKw" name="save">
+      <modelElement href="forum.uml#_UH-d89ZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_UeVIodZyEe2fMeFxo-oMKw" name="StyledElement">
+        <modelElement href="forum.uml#_UH_FAdZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UeVIotZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UeVIo9ZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_UeVIpNZyEe2fMeFxo-oMKw">
+        <modelElement href="forum.uml#_UH_FANZyEe2fMeFxo-oMKw"/>
+        <type xmi:id="_UeVIpdZyEe2fMeFxo-oMKw" name="Post">
+          <modelElement href="forum.uml#_TyNpUNZyEe2fMeFxo-oMKw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_UeVIptZyEe2fMeFxo-oMKw" name="post">
+        <modelElement href="forum.uml#_UH-d9NZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UeVIp9ZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UeVIqNZyEe2fMeFxo-oMKw" name="Post">
+          <modelElement href="forum.uml#_TyNpUNZyEe2fMeFxo-oMKw"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_Uep4kNZyEe2fMeFxo-oMKw" name="PostControlTest" associationsOut="_UemOMNZyEe2fMeFxo-oMKw _UencUNZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_TzifANZyEe2fMeFxo-oMKw"/>
+    <visualProperties xmi:id="_Uep4kdZyEe2fMeFxo-oMKw" position="-1610.0,-178.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_Uep4ktZyEe2fMeFxo-oMKw" name="LegacyStyledElement">
+      <modelElement href="forum.uml#_TzjGENZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <stereotypes xmi:id="_Uep4k9ZyEe2fMeFxo-oMKw" name="Annotations">
+      <modelElement href="forum.uml#_Tzk7QNZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <visibility xmi:id="_Uep4lNZyEe2fMeFxo-oMKw" label="+"/>
+    <attributes xmi:id="_Uep4ldZyEe2fMeFxo-oMKw" name="mockMvc">
+      <modelElement href="forum.uml#_UKC6gNZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_Uep4ltZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_UKDhkNZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_Uep4l9ZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_Uep4mNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <type xmi:id="_Uep4mdZyEe2fMeFxo-oMKw" name="MockMvc">
+        <modelElement href="forum.uml#_UHO3ENZyEe2fMeFxo-oMKw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_Uep4mtZyEe2fMeFxo-oMKw" name="posts">
+      <modelElement href="forum.uml#_UKDhktZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_Uep4m9ZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_UKEIoNZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_Uep4nNZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_Uep4ndZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <type xmi:id="_Uep4ntZyEe2fMeFxo-oMKw" name="PostService">
+        <modelElement href="forum.uml#_TzPkENZyEe2fMeFxo-oMKw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_Uep4n9ZyEe2fMeFxo-oMKw" name="shouldReturnDefaultMessageGetMethod">
+      <modelElement href="forum.uml#_TzjtINZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_Uep4oNZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_TzjtIdZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_Uep4odZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_Uep4otZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_Uep4o9ZyEe2fMeFxo-oMKw" name="shouldReturnDefaultMessagePostMethod">
+      <modelElement href="forum.uml#_TzkUMNZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_Uep4pNZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_TzkUMdZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_Uep4pdZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_Uep4ptZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_UaiNkNZyEe2fMeFxo-oMKw" name="Main">
+    <modelElement href="forum.uml#_TxZJ8NZyEe2fMeFxo-oMKw"/>
+    <visualProperties xmi:id="_UaiNkdZyEe2fMeFxo-oMKw" position="-1270.0,-194.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_UaiNktZyEe2fMeFxo-oMKw" name="LegacyStyledElement">
+      <modelElement href="forum.uml#_Txc0UNZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <stereotypes xmi:id="_UaiNk9ZyEe2fMeFxo-oMKw" name="Annotations">
+      <modelElement href="forum.uml#_Txhs0NZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <visibility xmi:id="_UaiNlNZyEe2fMeFxo-oMKw" label="+"/>
+    <operations xmi:id="_UaiNldZyEe2fMeFxo-oMKw" name="main" staticOperation="true">
+      <modelElement href="forum.uml#_TxeCcNZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_UaiNltZyEe2fMeFxo-oMKw" name="StyledElement">
+        <modelElement href="forum.uml#_Txf3oNZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UaiNl9ZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UaiNmNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_Uai0oNZyEe2fMeFxo-oMKw" name="args">
+        <modelElement href="forum.uml#_TxeCcdZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_Uai0odZyEe2fMeFxo-oMKw" label="1..*" max="-1" min="1"/>
+        <type xmi:id="_Uai0otZyEe2fMeFxo-oMKw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_Uai0o9ZyEe2fMeFxo-oMKw" name="configure">
+      <modelElement href="forum.uml#_UIzkYNZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_Uai0pNZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_UI0ygNZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_Uai0pdZyEe2fMeFxo-oMKw" label="#"/>
+      <cardinality xmi:id="_Uai0ptZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_Uai0p9ZyEe2fMeFxo-oMKw">
+        <modelElement href="forum.uml#_UI0LcdZyEe2fMeFxo-oMKw"/>
+        <type xmi:id="_Uai0qNZyEe2fMeFxo-oMKw" name="SpringApplicationBuilder">
+          <modelElement href="forum.uml#_UEfsIdZyEe2fMeFxo-oMKw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_Uai0qdZyEe2fMeFxo-oMKw" name="builder">
+        <modelElement href="forum.uml#_UI0LcNZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_Uai0qtZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_Uai0q9ZyEe2fMeFxo-oMKw" name="SpringApplicationBuilder">
+          <modelElement href="forum.uml#_UEfsIdZyEe2fMeFxo-oMKw"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_UbvuiNZyEe2fMeFxo-oMKw" name="WebSecurity" associationsOut="_UbvHcNZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_TxjiANZyEe2fMeFxo-oMKw"/>
+    <visualProperties xmi:id="_UbvuidZyEe2fMeFxo-oMKw" position="-1255.0,-74.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_UbvuitZyEe2fMeFxo-oMKw" name="LegacyStyledElement">
+      <modelElement href="forum.uml#_TxkJENZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <stereotypes xmi:id="_Ubvui9ZyEe2fMeFxo-oMKw" name="Annotations">
+      <modelElement href="forum.uml#_TxpBkNZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <visibility xmi:id="_UbwVkNZyEe2fMeFxo-oMKw" label="+"/>
+    <attributes xmi:id="_UbwVkdZyEe2fMeFxo-oMKw" name="ds">
+      <modelElement href="forum.uml#_UJtjUNZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_UbwVktZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_UJuKYNZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UbwVk9ZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_UbwVlNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <type xmi:id="_UbwVldZyEe2fMeFxo-oMKw" name="DataSource">
+        <modelElement href="forum.uml#_UFejkdZyEe2fMeFxo-oMKw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_UbwVltZyEe2fMeFxo-oMKw" name="passwordEncoder">
+      <modelElement href="forum.uml#_TxlXMNZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_UbwVl9ZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_TxmlUNZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UbwVmNZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UbwVmdZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_UbwVmtZyEe2fMeFxo-oMKw">
+        <modelElement href="forum.uml#_UI8uUNZyEe2fMeFxo-oMKw"/>
+        <type xmi:id="_UbwVm9ZyEe2fMeFxo-oMKw" name="PasswordEncoder">
+          <modelElement href="forum.uml#_UFaSIdZyEe2fMeFxo-oMKw"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_UbwVnNZyEe2fMeFxo-oMKw" name="main" staticOperation="true">
+      <modelElement href="forum.uml#_TxnMYNZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_UbwVndZyEe2fMeFxo-oMKw" name="StyledElement">
+        <modelElement href="forum.uml#_TxnzcNZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UbwVntZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UbwVn9ZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_UbwVoNZyEe2fMeFxo-oMKw" name="args">
+        <modelElement href="forum.uml#_TxnMYdZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UbwVodZyEe2fMeFxo-oMKw" label="1..*" max="-1" min="1"/>
+        <type xmi:id="_UbwVotZyEe2fMeFxo-oMKw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_UbwVo9ZyEe2fMeFxo-oMKw" name="configure">
+      <modelElement href="forum.uml#_UI5rANZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_UbwVpNZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_UI8HQNZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UbwVpdZyEe2fMeFxo-oMKw" label="#"/>
+      <cardinality xmi:id="_UbwVptZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_UbwVp9ZyEe2fMeFxo-oMKw" name="auth">
+        <modelElement href="forum.uml#_UI5rAdZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UbwVqNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UbwVqdZyEe2fMeFxo-oMKw" name="AuthenticationManagerBuilder">
+          <modelElement href="forum.uml#_UFBQkdZyEe2fMeFxo-oMKw"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_UbwVqtZyEe2fMeFxo-oMKw" name="configure">
+      <modelElement href="forum.uml#_UI9VYNZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_UbwVq9ZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_UI98cNZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UbwVrNZyEe2fMeFxo-oMKw" label="#"/>
+      <cardinality xmi:id="_UbwVrdZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_UbwVrtZyEe2fMeFxo-oMKw" name="http">
+        <modelElement href="forum.uml#_UI9VYdZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UbwVr9ZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UbwVsNZyEe2fMeFxo-oMKw" name="HttpSecurity">
+          <modelElement href="forum.uml#_UFGwINZyEe2fMeFxo-oMKw"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_Uejx8NZyEe2fMeFxo-oMKw" name="IndexControlTest" associationsOut="_UejK4NZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_Tx-YwNZyEe2fMeFxo-oMKw"/>
+    <visualProperties xmi:id="_Uejx8dZyEe2fMeFxo-oMKw" position="-1254.0,100.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_Uejx8tZyEe2fMeFxo-oMKw" name="LegacyStyledElement">
+      <modelElement href="forum.uml#_Tx_m4NZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <stereotypes xmi:id="_Uejx89ZyEe2fMeFxo-oMKw" name="Annotations">
+      <modelElement href="forum.uml#_TyA1A9ZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <visibility xmi:id="_Uejx9NZyEe2fMeFxo-oMKw" label="+"/>
+    <attributes xmi:id="_Uejx9dZyEe2fMeFxo-oMKw" name="mockMvc">
+      <modelElement href="forum.uml#_UJwmoNZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_Uejx9tZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_UJwmodZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_Uejx99ZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_Uejx-NZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <type xmi:id="_Uejx-dZyEe2fMeFxo-oMKw" name="MockMvc">
+        <modelElement href="forum.uml#_UHO3ENZyEe2fMeFxo-oMKw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_Uejx-tZyEe2fMeFxo-oMKw" name="shouldReturnDefaultMessage">
+      <modelElement href="forum.uml#_TyAN8NZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_Uejx-9ZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_TyA1ANZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_Uejx_NZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_Uejx_dZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_UceuUNZyEe2fMeFxo-oMKw" name="LoginControl">
+    <modelElement href="forum.uml#_TxyLgNZyEe2fMeFxo-oMKw"/>
+    <visualProperties xmi:id="_UceuUdZyEe2fMeFxo-oMKw" position="-1378.0,221.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_UceuUtZyEe2fMeFxo-oMKw" name="LegacyStyledElement">
+      <modelElement href="forum.uml#_Tx0AsNZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <stereotypes xmi:id="_UceuU9ZyEe2fMeFxo-oMKw" name="Annotations">
+      <modelElement href="forum.uml#_Tx114NZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <visibility xmi:id="_UceuVNZyEe2fMeFxo-oMKw" label="+"/>
+    <operations xmi:id="_UceuVdZyEe2fMeFxo-oMKw" name="loginPage">
+      <modelElement href="forum.uml#_UJA_wNZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_UceuVtZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_UJC09NZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UceuV9ZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UceuWNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_UceuWdZyEe2fMeFxo-oMKw">
+        <modelElement href="forum.uml#_UJBm0tZyEe2fMeFxo-oMKw"/>
+        <type xmi:id="_UceuWtZyEe2fMeFxo-oMKw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_UceuW9ZyEe2fMeFxo-oMKw" name="error">
+        <modelElement href="forum.uml#_UJA_wdZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UceuXNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UceuXdZyEe2fMeFxo-oMKw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_UceuXtZyEe2fMeFxo-oMKw" name="logout">
+        <modelElement href="forum.uml#_UJBm0NZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UceuX9ZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UceuYNZyEe2fMeFxo-oMKw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_UceuYdZyEe2fMeFxo-oMKw" name="model">
+        <modelElement href="forum.uml#_UJBm0dZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UceuYtZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UceuY9ZyEe2fMeFxo-oMKw" name="Model">
+          <modelElement href="forum.uml#_UFxegdZyEe2fMeFxo-oMKw"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_UceuZNZyEe2fMeFxo-oMKw" name="logoutPage">
+      <modelElement href="forum.uml#_UJDcANZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_UceuZdZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_UJEqINZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UceuZtZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UceuZ9ZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_UceuaNZyEe2fMeFxo-oMKw">
+        <modelElement href="forum.uml#_UJEDEdZyEe2fMeFxo-oMKw"/>
+        <type xmi:id="_UceuadZyEe2fMeFxo-oMKw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_UceuatZyEe2fMeFxo-oMKw" name="request">
+        <modelElement href="forum.uml#_UJDcAdZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_Uceua9ZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UceubNZyEe2fMeFxo-oMKw" name="HttpServletRequest">
+          <modelElement href="forum.uml#_UGcM4dZyEe2fMeFxo-oMKw"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_UceubdZyEe2fMeFxo-oMKw" name="response">
+        <modelElement href="forum.uml#_UJEDENZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UceubtZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_Uceub9ZyEe2fMeFxo-oMKw" name="HttpServletResponse">
+          <modelElement href="forum.uml#_UGi6kNZyEe2fMeFxo-oMKw"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_Ub-_GNZyEe2fMeFxo-oMKw" name="IndexControl" associationsOut="_Ub-YANZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_TxtTANZyEe2fMeFxo-oMKw"/>
+    <visualProperties xmi:id="_Ub-_GdZyEe2fMeFxo-oMKw" position="-993.0,372.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_Ub-_GtZyEe2fMeFxo-oMKw" name="LegacyStyledElement">
+      <modelElement href="forum.uml#_TxuhINZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <stereotypes xmi:id="_Ub-_G9ZyEe2fMeFxo-oMKw" name="Annotations">
+      <modelElement href="forum.uml#_TxvvQNZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <visibility xmi:id="_Ub-_HNZyEe2fMeFxo-oMKw" label="+"/>
+    <attributes xmi:id="_Ub-_HdZyEe2fMeFxo-oMKw" name="postService">
+      <modelElement href="forum.uml#_UJuxcNZyEe2fMeFxo-oMKw"/>
+      <visibility xmi:id="_Ub-_HtZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_Ub-_H9ZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <type xmi:id="_Ub-_INZyEe2fMeFxo-oMKw" name="PostService">
+        <modelElement href="forum.uml#_TzPkENZyEe2fMeFxo-oMKw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_Ub-_IdZyEe2fMeFxo-oMKw" name="IndexControl">
+      <modelElement href="forum.uml#_UF-54NZyEe2fMeFxo-oMKw"/>
+      <keywords xmi:id="_Ub-_ItZyEe2fMeFxo-oMKw" keyword="create"/>
+      <stereotypes xmi:id="_Ub-_I9ZyEe2fMeFxo-oMKw" name="StyledElement">
+        <modelElement href="forum.uml#_UF_g8tZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_Ub-_JNZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_Ub-_JdZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_Ub-_JtZyEe2fMeFxo-oMKw">
+        <modelElement href="forum.uml#_UF_g8dZyEe2fMeFxo-oMKw"/>
+        <type xmi:id="_Ub-_J9ZyEe2fMeFxo-oMKw" name="IndexControl">
+          <modelElement href="forum.uml#_TxtTANZyEe2fMeFxo-oMKw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_Ub-_KNZyEe2fMeFxo-oMKw" name="postService">
+        <modelElement href="forum.uml#_UF-54dZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_Ub-_KdZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_Ub-_KtZyEe2fMeFxo-oMKw" name="PostService">
+          <modelElement href="forum.uml#_TzPkENZyEe2fMeFxo-oMKw"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_Ub-_K9ZyEe2fMeFxo-oMKw" name="index">
+      <modelElement href="forum.uml#_UI_KkNZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_Ub-_LNZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_UJAYsNZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_Ub-_LdZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_Ub-_LtZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_Ub-_L9ZyEe2fMeFxo-oMKw">
+        <modelElement href="forum.uml#_UI_xoNZyEe2fMeFxo-oMKw"/>
+        <type xmi:id="_Ub-_MNZyEe2fMeFxo-oMKw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_Ub-_MdZyEe2fMeFxo-oMKw" name="model">
+        <modelElement href="forum.uml#_UI_KkdZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_Ub-_MtZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_Ub-_M9ZyEe2fMeFxo-oMKw" name="Model">
+          <modelElement href="forum.uml#_UFxegdZyEe2fMeFxo-oMKw"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_UewmQNZyEe2fMeFxo-oMKw" name="SubPostControlTest" associationsOut="_UeuKANZyEe2fMeFxo-oMKw _UeuxENZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_TzpzwNZyEe2fMeFxo-oMKw"/>
+    <visualProperties xmi:id="_UewmQdZyEe2fMeFxo-oMKw" position="-2368.0,136.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_UewmQtZyEe2fMeFxo-oMKw" name="LegacyStyledElement">
+      <modelElement href="forum.uml#_Tzqa09ZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <stereotypes xmi:id="_UewmQ9ZyEe2fMeFxo-oMKw" name="Annotations">
+      <modelElement href="forum.uml#_TzsQA9ZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <visibility xmi:id="_UewmRNZyEe2fMeFxo-oMKw" label="+"/>
+    <attributes xmi:id="_UewmRdZyEe2fMeFxo-oMKw" name="mockMvc">
+      <modelElement href="forum.uml#_UKFWwdZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_UewmRtZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_UKF90NZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UewmR9ZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_UewmSNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <type xmi:id="_UewmSdZyEe2fMeFxo-oMKw" name="MockMvc">
+        <modelElement href="forum.uml#_UHO3ENZyEe2fMeFxo-oMKw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_UewmStZyEe2fMeFxo-oMKw" name="subServ">
+      <modelElement href="forum.uml#_UKF90tZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_UewmS9ZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_UKF909ZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UewmTNZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_UewmTdZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <type xmi:id="_UewmTtZyEe2fMeFxo-oMKw" name="SubPostService">
+        <modelElement href="forum.uml#_TzVDoNZyEe2fMeFxo-oMKw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_UewmT9ZyEe2fMeFxo-oMKw" name="shouldReturnDefaultMessage">
+      <modelElement href="forum.uml#_TzrB4NZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_UewmUNZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_Tzro8NZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UewmUdZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UewmUtZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_UewmU9ZyEe2fMeFxo-oMKw" name="shouldReturnDefaultMessagePostMethod">
+      <modelElement href="forum.uml#_Tzro89ZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_UewmVNZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_TzsQANZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UewmVdZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UewmVtZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_UcU9UNZyEe2fMeFxo-oMKw" name="SubPostControl" associationsOut="_UcQE0NZyEe2fMeFxo-oMKw _UcUWQNZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_TyCDINZyEe2fMeFxo-oMKw"/>
+    <visualProperties xmi:id="_UcU9UdZyEe2fMeFxo-oMKw" position="-1939.0,134.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_UcU9UtZyEe2fMeFxo-oMKw" name="LegacyStyledElement">
+      <modelElement href="forum.uml#_TyCqMNZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <stereotypes xmi:id="_UcU9U9ZyEe2fMeFxo-oMKw" name="Annotations">
+      <modelElement href="forum.uml#_TyFGcNZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <visibility xmi:id="_UcU9VNZyEe2fMeFxo-oMKw" label="+"/>
+    <attributes xmi:id="_UcU9VdZyEe2fMeFxo-oMKw" name="pServ">
+      <modelElement href="forum.uml#_UJxNsNZyEe2fMeFxo-oMKw"/>
+      <visibility xmi:id="_UcU9VtZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_UcU9V9ZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <type xmi:id="_UcU9WNZyEe2fMeFxo-oMKw" name="PostService">
+        <modelElement href="forum.uml#_TzPkENZyEe2fMeFxo-oMKw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_UcU9WdZyEe2fMeFxo-oMKw" name="subServ">
+      <modelElement href="forum.uml#_UJxNsdZyEe2fMeFxo-oMKw"/>
+      <visibility xmi:id="_UcU9WtZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_UcU9W9ZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <type xmi:id="_UcU9XNZyEe2fMeFxo-oMKw" name="SubPostService">
+        <modelElement href="forum.uml#_TzVDoNZyEe2fMeFxo-oMKw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_UcU9XdZyEe2fMeFxo-oMKw" name="SubPostControl">
+      <modelElement href="forum.uml#_UHZ2MNZyEe2fMeFxo-oMKw"/>
+      <keywords xmi:id="_UcU9XtZyEe2fMeFxo-oMKw" keyword="create"/>
+      <stereotypes xmi:id="_UcU9X9ZyEe2fMeFxo-oMKw" name="StyledElement">
+        <modelElement href="forum.uml#_UHadQ9ZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UcU9YNZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UcU9YdZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_UcU9YtZyEe2fMeFxo-oMKw">
+        <modelElement href="forum.uml#_UHadQtZyEe2fMeFxo-oMKw"/>
+        <type xmi:id="_UcU9Y9ZyEe2fMeFxo-oMKw" name="SubPostControl">
+          <modelElement href="forum.uml#_TyCDINZyEe2fMeFxo-oMKw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_UcU9ZNZyEe2fMeFxo-oMKw" name="pServ">
+        <modelElement href="forum.uml#_UHZ2MdZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UcU9ZdZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UcU9ZtZyEe2fMeFxo-oMKw" name="PostService">
+          <modelElement href="forum.uml#_TzPkENZyEe2fMeFxo-oMKw"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_UcU9Z9ZyEe2fMeFxo-oMKw" name="subServ">
+        <modelElement href="forum.uml#_UHZ2MtZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UcU9aNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UcU9adZyEe2fMeFxo-oMKw" name="SubPostService">
+          <modelElement href="forum.uml#_TzVDoNZyEe2fMeFxo-oMKw"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_UcU9atZyEe2fMeFxo-oMKw" name="saveSubpost">
+      <modelElement href="forum.uml#_UHbEUNZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_UcU9a9ZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_UHcScNZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UcU9bNZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UcU9bdZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_UcU9btZyEe2fMeFxo-oMKw">
+        <modelElement href="forum.uml#_UHbEU9ZyEe2fMeFxo-oMKw"/>
+        <type xmi:id="_UcU9b9ZyEe2fMeFxo-oMKw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_UcU9cNZyEe2fMeFxo-oMKw" name="sub">
+        <modelElement href="forum.uml#_UHbEUdZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UcU9cdZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UcU9ctZyEe2fMeFxo-oMKw" name="SubPost">
+          <modelElement href="forum.uml#_TyeIANZyEe2fMeFxo-oMKw"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_UcU9c9ZyEe2fMeFxo-oMKw" name="postId">
+        <modelElement href="forum.uml#_UHbEUtZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UcU9dNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UcU9ddZyEe2fMeFxo-oMKw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_UcU9dtZyEe2fMeFxo-oMKw" name="post">
+      <modelElement href="forum.uml#_UJHtcNZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_UcU9d9ZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_UJIUgtZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UcU9eNZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UcU9edZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_UcU9etZyEe2fMeFxo-oMKw">
+        <modelElement href="forum.uml#_UJHtc9ZyEe2fMeFxo-oMKw"/>
+        <type xmi:id="_UcU9e9ZyEe2fMeFxo-oMKw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_UcU9fNZyEe2fMeFxo-oMKw" name="model">
+        <modelElement href="forum.uml#_UJHtcdZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UcU9fdZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UcU9ftZyEe2fMeFxo-oMKw" name="Model">
+          <modelElement href="forum.uml#_UFxegdZyEe2fMeFxo-oMKw"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_UcU9f9ZyEe2fMeFxo-oMKw" name="postId">
+        <modelElement href="forum.uml#_UJHtctZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UcU9gNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UcU9gdZyEe2fMeFxo-oMKw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_UcU9gtZyEe2fMeFxo-oMKw" name="updateSubpost">
+      <modelElement href="forum.uml#_UJI7ktZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_UcU9g9ZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_UJKJstZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UcU9hNZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UcU9hdZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_UcU9htZyEe2fMeFxo-oMKw">
+        <modelElement href="forum.uml#_UJJioNZyEe2fMeFxo-oMKw"/>
+        <type xmi:id="_UcU9h9ZyEe2fMeFxo-oMKw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_UcU9iNZyEe2fMeFxo-oMKw" name="model">
+        <modelElement href="forum.uml#_UJI7k9ZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UcU9idZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UcU9itZyEe2fMeFxo-oMKw" name="Model">
+          <modelElement href="forum.uml#_UFxegdZyEe2fMeFxo-oMKw"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_UcU9i9ZyEe2fMeFxo-oMKw" name="subId">
+        <modelElement href="forum.uml#_UJI7lNZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UcU9jNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UcU9jdZyEe2fMeFxo-oMKw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_UcU9jtZyEe2fMeFxo-oMKw" name="postId">
+        <modelElement href="forum.uml#_UJI7ldZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UcU9j9ZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UcU9kNZyEe2fMeFxo-oMKw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_UcU9kdZyEe2fMeFxo-oMKw" name="deleteSubpost">
+      <modelElement href="forum.uml#_UJKwwNZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_UcU9ktZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_UJLX1NZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UcU9k9ZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UcU9lNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_UcU9ldZyEe2fMeFxo-oMKw">
+        <modelElement href="forum.uml#_UJKwxNZyEe2fMeFxo-oMKw"/>
+        <type xmi:id="_UcU9ltZyEe2fMeFxo-oMKw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_UcU9l9ZyEe2fMeFxo-oMKw" name="model">
+        <modelElement href="forum.uml#_UJKwwdZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UcU9mNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UcU9mdZyEe2fMeFxo-oMKw" name="Model">
+          <modelElement href="forum.uml#_UFxegdZyEe2fMeFxo-oMKw"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_UcU9mtZyEe2fMeFxo-oMKw" name="subId">
+        <modelElement href="forum.uml#_UJKwwtZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UcU9m9ZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UcU9nNZyEe2fMeFxo-oMKw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_UcU9ndZyEe2fMeFxo-oMKw" name="postId">
+        <modelElement href="forum.uml#_UJKww9ZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UcU9ntZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UcU9n9ZyEe2fMeFxo-oMKw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_UcsJsNZyEe2fMeFxo-oMKw" name="PostControl" associationsOut="_Uci_wNZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_Tx3rENZyEe2fMeFxo-oMKw"/>
+    <visualProperties xmi:id="_UcsJsdZyEe2fMeFxo-oMKw" position="-2371.0,267.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_UcsJstZyEe2fMeFxo-oMKw" name="LegacyStyledElement">
+      <modelElement href="forum.uml#_Tx45MNZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <stereotypes xmi:id="_UcsJs9ZyEe2fMeFxo-oMKw" name="Annotations">
+      <modelElement href="forum.uml#_Tx78gNZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <visibility xmi:id="_UcsJtNZyEe2fMeFxo-oMKw" label="+"/>
+    <attributes xmi:id="_UcsJtdZyEe2fMeFxo-oMKw" name="service">
+      <modelElement href="forum.uml#_UJvYgNZyEe2fMeFxo-oMKw"/>
+      <visibility xmi:id="_UcsJttZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_UcsJt9ZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <type xmi:id="_UcsJuNZyEe2fMeFxo-oMKw" name="PostService">
+        <modelElement href="forum.uml#_TzPkENZyEe2fMeFxo-oMKw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_UcsJudZyEe2fMeFxo-oMKw" name="delete">
+      <modelElement href="forum.uml#_Tx6HUNZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_UcsJutZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_Tx7VcNZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UcsJu9ZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UcsJvNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_UcsJvdZyEe2fMeFxo-oMKw">
+        <modelElement href="forum.uml#_Tx6uYNZyEe2fMeFxo-oMKw"/>
+        <type xmi:id="_UcsJvtZyEe2fMeFxo-oMKw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_UcsJv9ZyEe2fMeFxo-oMKw" name="id">
+        <modelElement href="forum.uml#_Tx6HUdZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UcsJwNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UcsJwdZyEe2fMeFxo-oMKw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_UcsJwtZyEe2fMeFxo-oMKw" name="PostControl">
+      <modelElement href="forum.uml#_UGsEgNZyEe2fMeFxo-oMKw"/>
+      <keywords xmi:id="_UcsJw9ZyEe2fMeFxo-oMKw" keyword="create"/>
+      <stereotypes xmi:id="_UcsJxNZyEe2fMeFxo-oMKw" name="StyledElement">
+        <modelElement href="forum.uml#_UGsrkdZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UcsJxdZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UcsJxtZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_UcsJx9ZyEe2fMeFxo-oMKw">
+        <modelElement href="forum.uml#_UGsrkNZyEe2fMeFxo-oMKw"/>
+        <type xmi:id="_UcsJyNZyEe2fMeFxo-oMKw" name="PostControl">
+          <modelElement href="forum.uml#_Tx3rENZyEe2fMeFxo-oMKw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_UcsJydZyEe2fMeFxo-oMKw" name="service">
+        <modelElement href="forum.uml#_UGsEgdZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UcsJytZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UcsJy9ZyEe2fMeFxo-oMKw" name="PostService">
+          <modelElement href="forum.uml#_TzPkENZyEe2fMeFxo-oMKw"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_UcsJzNZyEe2fMeFxo-oMKw" name="save">
+      <modelElement href="forum.uml#_UGsrktZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_UcsJzdZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_UGt5sNZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UcsJztZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UcsJz9ZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_UcsJ0NZyEe2fMeFxo-oMKw">
+        <modelElement href="forum.uml#_UGtSoNZyEe2fMeFxo-oMKw"/>
+        <type xmi:id="_UcsJ0dZyEe2fMeFxo-oMKw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_UcsJ0tZyEe2fMeFxo-oMKw" name="post">
+        <modelElement href="forum.uml#_UGsrk9ZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UcsJ09ZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UcsJ1NZyEe2fMeFxo-oMKw" name="Post">
+          <modelElement href="forum.uml#_TyNpUNZyEe2fMeFxo-oMKw"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_UcsJ1dZyEe2fMeFxo-oMKw" name="edit">
+      <modelElement href="forum.uml#_UJFRMNZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_UcsJ1tZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_UJGfUNZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UcsJ19ZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UcsJ2NZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_UcsJ2dZyEe2fMeFxo-oMKw">
+        <modelElement href="forum.uml#_UJF4QNZyEe2fMeFxo-oMKw"/>
+        <type xmi:id="_UcsJ2tZyEe2fMeFxo-oMKw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_UcsJ29ZyEe2fMeFxo-oMKw" name="model">
+        <modelElement href="forum.uml#_UJFRMdZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UcsJ3NZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UcsJ3dZyEe2fMeFxo-oMKw" name="Model">
+          <modelElement href="forum.uml#_UFxegdZyEe2fMeFxo-oMKw"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_UcsJ3tZyEe2fMeFxo-oMKw" name="id">
+        <modelElement href="forum.uml#_UJFRMtZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UcsJ39ZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UcsJ4NZyEe2fMeFxo-oMKw" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_Uc_rsNZyEe2fMeFxo-oMKw" name="Post" associationsIn="_Uc6MINZyEe2fMeFxo-oMKw" associationsOut="_Uc6zMNZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_TyNpUNZyEe2fMeFxo-oMKw"/>
+    <visualProperties xmi:id="_Uc_rsdZyEe2fMeFxo-oMKw" position="-1991.0,323.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_Uc_rstZyEe2fMeFxo-oMKw" name="Table">
+      <modelElement href="forum.uml#_TyYBYNZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <stereotypes xmi:id="_Uc_rs9ZyEe2fMeFxo-oMKw" name="JPA1StyledElement">
+      <modelElement href="forum.uml#_TyYocNZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <stereotypes xmi:id="_Uc_rtNZyEe2fMeFxo-oMKw" name="Annotations">
+      <modelElement href="forum.uml#_TybrwNZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <visibility xmi:id="_Uc_rtdZyEe2fMeFxo-oMKw" label="+"/>
+    <attributes xmi:id="_Uc_rttZyEe2fMeFxo-oMKw" name="id">
+      <modelElement href="forum.uml#_UJ0RAdZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_Uc_rt9ZyEe2fMeFxo-oMKw" name="LegacyStyledElement">
+        <modelElement href="forum.uml#_UJ04ENZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_Uc_ruNZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_UJ04EdZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_Uc_rudZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_Uc_rutZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <type xmi:id="_Uc_ru9ZyEe2fMeFxo-oMKw" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_Uc_rvNZyEe2fMeFxo-oMKw" name="name">
+      <modelElement href="forum.uml#_UJ1fINZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_Uc_rvdZyEe2fMeFxo-oMKw" name="LegacyStyledElement">
+        <modelElement href="forum.uml#_UJ1fIdZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_Uc_rvtZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_Uc_rv9ZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <type xmi:id="_Uc_rwNZyEe2fMeFxo-oMKw" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_Uc_rwdZyEe2fMeFxo-oMKw" name="description">
+      <modelElement href="forum.uml#_UJ1fItZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_Uc_rwtZyEe2fMeFxo-oMKw" name="LegacyStyledElement">
+        <modelElement href="forum.uml#_UJ2GMNZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_Uc_rw9ZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_Uc_rxNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <type xmi:id="_Uc_rxdZyEe2fMeFxo-oMKw" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_Uc_rxtZyEe2fMeFxo-oMKw" name="author">
+      <modelElement href="forum.uml#_UJ2GMdZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_Uc_rx9ZyEe2fMeFxo-oMKw" name="LegacyStyledElement">
+        <modelElement href="forum.uml#_UJ2GMtZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_Uc_ryNZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_Uc_rydZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <type xmi:id="_Uc_rytZyEe2fMeFxo-oMKw" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_Uc_ry9ZyEe2fMeFxo-oMKw" name="created">
+      <modelElement href="forum.uml#_UJ2GM9ZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_Uc_rzNZyEe2fMeFxo-oMKw" name="LegacyStyledElement">
+        <modelElement href="forum.uml#_UJ2tQNZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_Uc_rzdZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_UJ2tQdZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_Uc_rztZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_Uc_rz9ZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <type xmi:id="_Uc_r0NZyEe2fMeFxo-oMKw" name="Calendar">
+        <modelElement href="forum.uml#_UHpt0NZyEe2fMeFxo-oMKw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_Uc_r0dZyEe2fMeFxo-oMKw" defaultValue="new ArrayList&lt;>()" name="subs">
+      <modelElement href="forum.uml#_UJ3UUNZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_Uc_r0tZyEe2fMeFxo-oMKw" name="LegacyStyledElement">
+        <modelElement href="forum.uml#_UJ37YNZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_Uc_r09ZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_UJ37YdZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_Uc_r1NZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_Uc_r1dZyEe2fMeFxo-oMKw" label="1..*" max="-1" min="1"/>
+      <type xmi:id="_Uc_r1tZyEe2fMeFxo-oMKw" name="SubPost">
+        <modelElement href="forum.uml#_TyeIANZyEe2fMeFxo-oMKw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_Uc_r19ZyEe2fMeFxo-oMKw" name="of" staticOperation="true">
+      <modelElement href="forum.uml#_TyZ2kNZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_Uc_r2NZyEe2fMeFxo-oMKw" name="StyledElement">
+        <modelElement href="forum.uml#_TybEsNZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_Uc_r2dZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_Uc_r2tZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_Uc_r29ZyEe2fMeFxo-oMKw">
+        <modelElement href="forum.uml#_UHofsNZyEe2fMeFxo-oMKw"/>
+        <type xmi:id="_Uc_r3NZyEe2fMeFxo-oMKw" name="Post">
+          <modelElement href="forum.uml#_TyNpUNZyEe2fMeFxo-oMKw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_Uc_r3dZyEe2fMeFxo-oMKw" name="name">
+        <modelElement href="forum.uml#_TyZ2kdZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_Uc_r3tZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_Uc_r39ZyEe2fMeFxo-oMKw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_Uc_r4NZyEe2fMeFxo-oMKw" name="desc">
+        <modelElement href="forum.uml#_TyadoNZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_Uc_r4dZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_Uc_r4tZyEe2fMeFxo-oMKw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_UdurgNZyEe2fMeFxo-oMKw" name="SubPost" associationsIn="_Uc6zMNZyEe2fMeFxo-oMKw" associationsOut="_Uc6MINZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_TyeIANZyEe2fMeFxo-oMKw"/>
+    <visualProperties xmi:id="_UdurgdZyEe2fMeFxo-oMKw" position="-1592.0,343.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_UdurgtZyEe2fMeFxo-oMKw" name="Table">
+      <modelElement href="forum.uml#_Tymq4NZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <stereotypes xmi:id="_Udurg9ZyEe2fMeFxo-oMKw" name="JPA1StyledElement">
+      <modelElement href="forum.uml#_Tyn5ANZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <stereotypes xmi:id="_UdurhNZyEe2fMeFxo-oMKw" name="Annotations">
+      <modelElement href="forum.uml#_TypuMNZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <visibility xmi:id="_UdurhdZyEe2fMeFxo-oMKw" label="+"/>
+    <attributes xmi:id="_UdurhtZyEe2fMeFxo-oMKw" name="id">
+      <modelElement href="forum.uml#_UJ4icdZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_Udurh9ZyEe2fMeFxo-oMKw" name="LegacyStyledElement">
+        <modelElement href="forum.uml#_UJ5JgNZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_UduriNZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_UJ5JgdZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UduridZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_UduritZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <type xmi:id="_Uduri9ZyEe2fMeFxo-oMKw" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_UdurjNZyEe2fMeFxo-oMKw" name="header">
+      <modelElement href="forum.uml#_UJ5wkNZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_UdurjdZyEe2fMeFxo-oMKw" name="LegacyStyledElement">
+        <modelElement href="forum.uml#_UJ5wkdZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_UdurjtZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_UJ5wktZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_Udurj9ZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_UdurkNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <type xmi:id="_UdurkdZyEe2fMeFxo-oMKw" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_UdurktZyEe2fMeFxo-oMKw" name="content">
+      <modelElement href="forum.uml#_UJ5wldZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_Udurk9ZyEe2fMeFxo-oMKw" name="LegacyStyledElement">
+        <modelElement href="forum.uml#_UJ6XoNZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_UdurlNZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_UJ6XodZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UdurldZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_UdurltZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <type xmi:id="_Udurl9ZyEe2fMeFxo-oMKw" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_UdurmNZyEe2fMeFxo-oMKw" name="created">
+      <modelElement href="forum.uml#_UJ6XpNZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_UdurmdZyEe2fMeFxo-oMKw" name="LegacyStyledElement">
+        <modelElement href="forum.uml#_UJ6-sNZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_UdurmtZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_UJ6-sdZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_Udurm9ZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_UdurnNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <type xmi:id="_UdurndZyEe2fMeFxo-oMKw" name="Calendar">
+        <modelElement href="forum.uml#_UHpt0NZyEe2fMeFxo-oMKw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_UdurntZyEe2fMeFxo-oMKw" name="post">
+      <modelElement href="forum.uml#_UJ6-ttZyEe2fMeFxo-oMKw"/>
+      <visibility xmi:id="_Udurn9ZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_UduroNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <type xmi:id="_UdurodZyEe2fMeFxo-oMKw" name="Post">
+        <modelElement href="forum.uml#_TyNpUNZyEe2fMeFxo-oMKw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_UdurotZyEe2fMeFxo-oMKw" name="author">
+      <modelElement href="forum.uml#_UJ7lxdZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_Uduro9ZyEe2fMeFxo-oMKw" name="LegacyStyledElement">
+        <modelElement href="forum.uml#_UJ8M0NZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UdurpNZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_UdurpdZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <type xmi:id="_UdurptZyEe2fMeFxo-oMKw" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_Ub6GkNZyEe2fMeFxo-oMKw" name="Exception">
+    <modelElement href="forum.uml#_UI2AodZyEe2fMeFxo-oMKw"/>
+    <visualProperties xmi:id="_Ub6GkdZyEe2fMeFxo-oMKw" position="-870.0,728.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_Ub6GktZyEe2fMeFxo-oMKw" name="Reference">
+      <modelElement href="forum.uml#_UI5D8NZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <visibility xmi:id="_Ub6Gk9ZyEe2fMeFxo-oMKw" label="+"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_UdJcsNZyEe2fMeFxo-oMKw" name="User" associationsOut="_Ucy3YNZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_Tyq8UNZyEe2fMeFxo-oMKw"/>
+    <visualProperties xmi:id="_UdJcsdZyEe2fMeFxo-oMKw" position="-168.0,101.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_UdJcstZyEe2fMeFxo-oMKw" name="Table">
+      <modelElement href="forum.uml#_Ty0tUNZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <stereotypes xmi:id="_UdJcs9ZyEe2fMeFxo-oMKw" name="JPA1StyledElement">
+      <modelElement href="forum.uml#_Ty17cNZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <stereotypes xmi:id="_UdJctNZyEe2fMeFxo-oMKw" name="Annotations">
+      <modelElement href="forum.uml#_Ty3JkdZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <visibility xmi:id="_UdJctdZyEe2fMeFxo-oMKw" label="+"/>
+    <attributes xmi:id="_UdJcttZyEe2fMeFxo-oMKw" name="id">
+      <modelElement href="forum.uml#_UJ8z4NZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_UdJct9ZyEe2fMeFxo-oMKw" name="LegacyStyledElement">
+        <modelElement href="forum.uml#_UJ8z4dZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_UdJcuNZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_UJ9a8NZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UdJcudZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_UdJcutZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <type xmi:id="_UdJcu9ZyEe2fMeFxo-oMKw" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_UdJcvNZyEe2fMeFxo-oMKw" name="username">
+      <modelElement href="forum.uml#_UJ9a9NZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_UdJcvdZyEe2fMeFxo-oMKw" name="LegacyStyledElement">
+        <modelElement href="forum.uml#_UJ9a9dZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UdJcvtZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_UdJcv9ZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <type xmi:id="_UdJcwNZyEe2fMeFxo-oMKw" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_UdJcwdZyEe2fMeFxo-oMKw" name="password">
+      <modelElement href="forum.uml#_UJ9a9tZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_UdJcwtZyEe2fMeFxo-oMKw" name="LegacyStyledElement">
+        <modelElement href="forum.uml#_UJ-CANZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UdJcw9ZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_UdJcxNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <type xmi:id="_UdJcxdZyEe2fMeFxo-oMKw" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_UdJcxtZyEe2fMeFxo-oMKw" name="authority">
+      <modelElement href="forum.uml#_UJ-CAdZyEe2fMeFxo-oMKw"/>
+      <visibility xmi:id="_UdJcx9ZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_UdJcyNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <type xmi:id="_UdJcydZyEe2fMeFxo-oMKw" name="Authority">
+        <modelElement href="forum.uml#_TyIw0NZyEe2fMeFxo-oMKw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_UdJcytZyEe2fMeFxo-oMKw" name="enabled">
+      <modelElement href="forum.uml#_UJ-CBdZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_UdJcy9ZyEe2fMeFxo-oMKw" name="LegacyStyledElement">
+        <modelElement href="forum.uml#_UJ-pENZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UdJczNZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_UdJczdZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <type xmi:id="_UdJcztZyEe2fMeFxo-oMKw" name="boolean">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_UdJcz9ZyEe2fMeFxo-oMKw" name="of" staticOperation="true">
+      <modelElement href="forum.uml#_Ty2igNZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_UdJc0NZyEe2fMeFxo-oMKw" name="StyledElement">
+        <modelElement href="forum.uml#_Ty3JkNZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UdJc0dZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UdJc0tZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_UdJc09ZyEe2fMeFxo-oMKw">
+        <modelElement href="forum.uml#_UHv0cNZyEe2fMeFxo-oMKw"/>
+        <type xmi:id="_UdJc1NZyEe2fMeFxo-oMKw" name="User">
+          <modelElement href="forum.uml#_Tyq8UNZyEe2fMeFxo-oMKw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_UdJc1dZyEe2fMeFxo-oMKw" name="name">
+        <modelElement href="forum.uml#_Ty2igdZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UdJc1tZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UdJc19ZyEe2fMeFxo-oMKw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_UdJc2NZyEe2fMeFxo-oMKw" name="pass">
+        <modelElement href="forum.uml#_Ty2igtZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UdJc2dZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UdJc2tZyEe2fMeFxo-oMKw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_Ue2s4tZyEe2fMeFxo-oMKw" name="LoginControlTest" associationsOut="_Ue1ewNZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_TzfbsNZyEe2fMeFxo-oMKw"/>
+    <visualProperties xmi:id="_Ue2s49ZyEe2fMeFxo-oMKw" position="-476.0,113.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_Ue2s5NZyEe2fMeFxo-oMKw" name="LegacyStyledElement">
+      <modelElement href="forum.uml#_TzgCw9ZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <stereotypes xmi:id="_Ue2s5dZyEe2fMeFxo-oMKw" name="Annotations">
+      <modelElement href="forum.uml#_TzhQ4tZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <visibility xmi:id="_Ue2s5tZyEe2fMeFxo-oMKw" label="+"/>
+    <attributes xmi:id="_Ue2s59ZyEe2fMeFxo-oMKw" name="mockMvc">
+      <modelElement href="forum.uml#_UKBsYNZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_Ue2s6NZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_UKCTcNZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_Ue2s6dZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_Ue2s6tZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <type xmi:id="_Ue2s69ZyEe2fMeFxo-oMKw" name="MockMvc">
+        <modelElement href="forum.uml#_UHO3ENZyEe2fMeFxo-oMKw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_Ue2s7NZyEe2fMeFxo-oMKw" name="shouldReturnDefaultMessage">
+      <modelElement href="forum.uml#_Tzgp0NZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_Ue2s7dZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_TzhQ4NZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_Ue2s7tZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_Ue2s79ZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_UcIJCdZyEe2fMeFxo-oMKw" name="RegControl" associationsOut="_UcEeoNZyEe2fMeFxo-oMKw _UcHh8NZyEe2fMeFxo-oMKw _UcIJANZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_TzZ8INZyEe2fMeFxo-oMKw"/>
+    <visualProperties xmi:id="_UcIJCtZyEe2fMeFxo-oMKw" position="-279.0,391.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_UcIJC9ZyEe2fMeFxo-oMKw" name="LegacyStyledElement">
+      <modelElement href="forum.uml#_TzbKQNZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <stereotypes xmi:id="_UcIJDNZyEe2fMeFxo-oMKw" name="Annotations">
+      <modelElement href="forum.uml#_TzdmgNZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <visibility xmi:id="_UcIJDdZyEe2fMeFxo-oMKw" label="+"/>
+    <attributes xmi:id="_UcIJDtZyEe2fMeFxo-oMKw" name="userRep">
+      <modelElement href="forum.uml#_UKAeQNZyEe2fMeFxo-oMKw"/>
+      <visibility xmi:id="_UcIJD9ZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_UcIJENZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <type xmi:id="_UcIJEdZyEe2fMeFxo-oMKw" name="UserRepository">
+        <modelElement href="forum.uml#_TzOV8NZyEe2fMeFxo-oMKw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_UcIJEtZyEe2fMeFxo-oMKw" name="authRep">
+      <modelElement href="forum.uml#_UKBFUNZyEe2fMeFxo-oMKw"/>
+      <visibility xmi:id="_UcIJE9ZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_UcIJFNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <type xmi:id="_UcIJFdZyEe2fMeFxo-oMKw" name="AuthorityRepository">
+        <modelElement href="forum.uml#_Ty4-wNZyEe2fMeFxo-oMKw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_UcIJFtZyEe2fMeFxo-oMKw" name="encoder">
+      <modelElement href="forum.uml#_UKBFUdZyEe2fMeFxo-oMKw"/>
+      <visibility xmi:id="_UcIJF9ZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_UcIJGNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <type xmi:id="_UcIJGdZyEe2fMeFxo-oMKw" name="PasswordEncoder">
+        <modelElement href="forum.uml#_UFaSIdZyEe2fMeFxo-oMKw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_UcIJGtZyEe2fMeFxo-oMKw" name="reg">
+      <modelElement href="forum.uml#_TzbxUNZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_UcIJG9ZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_Tzc_cNZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UcIJHNZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UcIJHdZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_UcIJHtZyEe2fMeFxo-oMKw">
+        <modelElement href="forum.uml#_TzcYYNZyEe2fMeFxo-oMKw"/>
+        <type xmi:id="_UcIJH9ZyEe2fMeFxo-oMKw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_UcIJINZyEe2fMeFxo-oMKw" name="save">
+      <modelElement href="forum.uml#_UIOVkNZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_UcIJIdZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_UIPjstZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UcIJItZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UcIJI9ZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_UcIJJNZyEe2fMeFxo-oMKw">
+        <modelElement href="forum.uml#_UIO8oNZyEe2fMeFxo-oMKw"/>
+        <type xmi:id="_UcIJJdZyEe2fMeFxo-oMKw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_UcIJJtZyEe2fMeFxo-oMKw" name="user">
+        <modelElement href="forum.uml#_UIOVkdZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UcIJJ9ZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UcIJKNZyEe2fMeFxo-oMKw" name="User">
+          <modelElement href="forum.uml#_Tyq8UNZyEe2fMeFxo-oMKw"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_UcIJKdZyEe2fMeFxo-oMKw" name="RegControl">
+      <modelElement href="forum.uml#_UJlngNZyEe2fMeFxo-oMKw"/>
+      <keywords xmi:id="_UcIJKtZyEe2fMeFxo-oMKw" keyword="create"/>
+      <stereotypes xmi:id="_UcIJK9ZyEe2fMeFxo-oMKw" name="StyledElement">
+        <modelElement href="forum.uml#_UJmOkdZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_UcIJLNZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_UcIJLdZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_UcIJLtZyEe2fMeFxo-oMKw">
+        <modelElement href="forum.uml#_UJmOkNZyEe2fMeFxo-oMKw"/>
+        <type xmi:id="_UcIJL9ZyEe2fMeFxo-oMKw" name="RegControl">
+          <modelElement href="forum.uml#_TzZ8INZyEe2fMeFxo-oMKw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_UcIJMNZyEe2fMeFxo-oMKw" name="userRep">
+        <modelElement href="forum.uml#_UJlngdZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UcIJMdZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UcIJMtZyEe2fMeFxo-oMKw" name="UserRepository">
+          <modelElement href="forum.uml#_TzOV8NZyEe2fMeFxo-oMKw"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_UcIJM9ZyEe2fMeFxo-oMKw" name="authRep">
+        <modelElement href="forum.uml#_UJlngtZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UcIJNNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UcIJNdZyEe2fMeFxo-oMKw" name="AuthorityRepository">
+          <modelElement href="forum.uml#_Ty4-wNZyEe2fMeFxo-oMKw"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_UcIJNtZyEe2fMeFxo-oMKw" name="encoder">
+        <modelElement href="forum.uml#_UJlng9ZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_UcIJN9ZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_UcIJONZyEe2fMeFxo-oMKw" name="PasswordEncoder">
+          <modelElement href="forum.uml#_UFaSIdZyEe2fMeFxo-oMKw"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_Uc1ToNZyEe2fMeFxo-oMKw" name="Authority" associationsIn="_Ucy3YNZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_TyIw0NZyEe2fMeFxo-oMKw"/>
+    <visualProperties xmi:id="_Uc1TodZyEe2fMeFxo-oMKw" position="410.0,228.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_Uc1TotZyEe2fMeFxo-oMKw" name="Table">
+      <modelElement href="forum.uml#_TyLNENZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <stereotypes xmi:id="_Uc1To9ZyEe2fMeFxo-oMKw" name="JPA1StyledElement">
+      <modelElement href="forum.uml#_TyMbMNZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <stereotypes xmi:id="_Uc1TpNZyEe2fMeFxo-oMKw" name="Annotations">
+      <modelElement href="forum.uml#_TyNCQNZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <visibility xmi:id="_Uc1TpdZyEe2fMeFxo-oMKw" label="+"/>
+    <attributes xmi:id="_Uc1TptZyEe2fMeFxo-oMKw" name="id">
+      <modelElement href="forum.uml#_UJyb0NZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_Uc1Tp9ZyEe2fMeFxo-oMKw" name="LegacyStyledElement">
+        <modelElement href="forum.uml#_UJzC4NZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_Uc1TqNZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_UJzp8NZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_Uc1TqdZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_Uc1TqtZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <type xmi:id="_Uc1Tq9ZyEe2fMeFxo-oMKw" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_Uc1TrNZyEe2fMeFxo-oMKw" name="authority">
+      <modelElement href="forum.uml#_UJzp9NZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_Uc1TrdZyEe2fMeFxo-oMKw" name="LegacyStyledElement">
+        <modelElement href="forum.uml#_UJ0RANZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_Uc1TrtZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_Uc1Tr9ZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <type xmi:id="_Uc1TsNZyEe2fMeFxo-oMKw" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:InterfaceVisual" xmi:id="_Ud31cNZyEe2fMeFxo-oMKw" name="AuthorityRepository" associationsIn="_UcIJANZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_Ty4-wNZyEe2fMeFxo-oMKw"/>
+    <visualProperties xmi:id="_Ud31cdZyEe2fMeFxo-oMKw" position="434.0,392.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_Ud31ctZyEe2fMeFxo-oMKw" label="+"/>
+    <operations xmi:id="_Ud31c9ZyEe2fMeFxo-oMKw" name="findByAuthority">
+      <modelElement href="forum.uml#_Ty5l0NZyEe2fMeFxo-oMKw"/>
+      <visibility xmi:id="_Ud31dNZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_Ud31ddZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_Ud31dtZyEe2fMeFxo-oMKw">
+        <modelElement href="forum.uml#_UH0s8NZyEe2fMeFxo-oMKw"/>
+        <type xmi:id="_Ud31d9ZyEe2fMeFxo-oMKw" name="Authority">
+          <modelElement href="forum.uml#_TyIw0NZyEe2fMeFxo-oMKw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_Ud31eNZyEe2fMeFxo-oMKw" name="authority">
+        <modelElement href="forum.uml#_Ty6M4NZyEe2fMeFxo-oMKw"/>
+        <cardinality xmi:id="_Ud31edZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+        <type xmi:id="_Ud31etZyEe2fMeFxo-oMKw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_Ue6-UNZyEe2fMeFxo-oMKw" name="RegControlTest" associationsOut="_Ue5wMNZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_TzmwcNZyEe2fMeFxo-oMKw"/>
+    <visualProperties xmi:id="_Ue6-UdZyEe2fMeFxo-oMKw" position="-503.0,277.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_Ue6-UtZyEe2fMeFxo-oMKw" name="LegacyStyledElement">
+      <modelElement href="forum.uml#_TznXg9ZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <stereotypes xmi:id="_Ue6-U9ZyEe2fMeFxo-oMKw" name="Annotations">
+      <modelElement href="forum.uml#_TzolotZyEe2fMeFxo-oMKw"/>
+    </stereotypes>
+    <visibility xmi:id="_Ue6-VNZyEe2fMeFxo-oMKw" label="+"/>
+    <attributes xmi:id="_Ue6-VdZyEe2fMeFxo-oMKw" name="mockMvc">
+      <modelElement href="forum.uml#_UKEvsNZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_Ue6-VtZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_UKEvsdZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_Ue6-V9ZyEe2fMeFxo-oMKw" label="-"/>
+      <cardinality xmi:id="_Ue6-WNZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+      <type xmi:id="_Ue6-WdZyEe2fMeFxo-oMKw" name="MockMvc">
+        <modelElement href="forum.uml#_UHO3ENZyEe2fMeFxo-oMKw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_Ue6-WtZyEe2fMeFxo-oMKw" name="shouldReturnDefaultMessage">
+      <modelElement href="forum.uml#_Tzn-kNZyEe2fMeFxo-oMKw"/>
+      <stereotypes xmi:id="_Ue6-W9ZyEe2fMeFxo-oMKw" name="Annotations">
+        <modelElement href="forum.uml#_TzoloNZyEe2fMeFxo-oMKw"/>
+      </stereotypes>
+      <visibility xmi:id="_Ue6-XNZyEe2fMeFxo-oMKw" label="+"/>
+      <cardinality xmi:id="_Ue6-XdZyEe2fMeFxo-oMKw" label="1" max="1" min="1"/>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:InterfaceVisual" xmi:id="_UeQ3ANZyEe2fMeFxo-oMKw" name="UserRepository" associationsIn="_UcHh8NZyEe2fMeFxo-oMKw">
+    <modelElement href="forum.uml#_TzOV8NZyEe2fMeFxo-oMKw"/>
+    <visualProperties xmi:id="_UeQ3AdZyEe2fMeFxo-oMKw" position="474.0,524.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_UeQ3AtZyEe2fMeFxo-oMKw" label="+"/>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>
